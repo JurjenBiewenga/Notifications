@@ -1,0 +1,8 @@
+﻿<Window xmlns="https://github.com/avaloniaui" MinWidth="500" MinHeight="300"
+        Title="Notification">
+        <StackPanel Orientation="Vertical" Gap="4">
+                <TextBlock Classes="h1">Border</TextBlock>
+                <Button>Button</Button>
+                <Button Foreground="White">Foreground</Button>
+        </StackPanel>
+</Window>
